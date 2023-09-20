@@ -1,0 +1,21 @@
+{
+  "name": "mori",
+  "displayName": "Mori",
+  "description": "A calm and silent forest",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mori",
+        "uiTheme": "vs",
+        "path": "./themes/Mori-color-theme.json"
+      }
+    ]
+  }
+}
